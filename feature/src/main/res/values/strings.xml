@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Space News</string>
+    <string name="no_news_available">No news available.</string>
+    <string name="error_loading_articles">Error loading news</string>
+    <string name="error_fetching_articles">Error fetching news</string>
+    <string name="search_articles">Search articles…</string>
+
+    <string name="details_title">Article Details</string>
+    <string name="back">Back</string>
+    <string name="error_loading_article">Error loading article</string>
+
+    <string name="retry">Retry</string>
+    <string name="loading_articles">Loading articles...</string>
+    <string name="no_articles_found">No articles found</string>
+</resources>
